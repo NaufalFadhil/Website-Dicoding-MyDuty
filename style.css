@@ -8,6 +8,10 @@ table {
     display: block;
 }
 
+body {
+    background-color: lightskyblue;
+}
+
 div {
     max-width: 100%;
     text-align: center;
@@ -27,7 +31,7 @@ button {
 }
 
 #code-block {
-    background-color: #eee;
+    background-color: lightblue;
     border: 1px solid #999;
     display: block;
     padding: 20px;
